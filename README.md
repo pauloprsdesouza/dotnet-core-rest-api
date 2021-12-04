@@ -8,7 +8,6 @@ DotNet Core REST API
 # About
 
 This template is usefull for whom needs a start point to create a REST API using .NET core. 
-![logo-blue-d7f701aba7ca4ef2c60b7ad7eecaff2a]()
 
 ### Here are some used stacks
 <div class="display:flex; flex-direction: row; vertical-align:middle;">
