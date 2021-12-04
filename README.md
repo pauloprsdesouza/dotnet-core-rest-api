@@ -11,10 +11,10 @@ This template is usefull for whom needs a start point to create a REST API using
 ![logo-blue-d7f701aba7ca4ef2c60b7ad7eecaff2a]()
 
 ### Here are some used stacks
-<div class="display:flex; flex-direction: row;">
+<div class="display:flex; flex-direction: row; vertical-align:middle;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"/>&nbsp;+&nbsp;
 <img src="https://user-images.githubusercontent.com/5241700/144725685-da043fc4-eb19-4413-ac5c-4ab0a3fa2ee2.png" width="60"/>&nbsp;+&nbsp;
-<img src="https://user-images.githubusercontent.com/5241700/144725811-bbccd2d4-24b8-4612-999a-39d494dee83c.png" width="60"/>
+<img src="https://user-images.githubusercontent.com/5241700/144725811-bbccd2d4-24b8-4612-999a-39d494dee83c.png" width="130"/>
 </div>
 
 
