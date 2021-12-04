@@ -7,7 +7,7 @@ DotNet Core REST API
 
 # About
 
-This template is usefull for whom needs a start point to create a REST API using .NET core. 
+This template is useful for those who need a start point to create a REST API using the .NET core.
 
 ### Here are some used stacks
 <div class="display:flex; flex-direction: row; vertical-align:middle;">
