@@ -1,0 +1,32 @@
+@bookId = 3
+
+GET {{baseUrl}}/books
+Content-Type: application/json
+
+###
+
+GET {{baseUrl}}/books/{{bookId}}
+Content-Type: application/json
+
+###
+
+POST {{baseUrl}}/books
+Content-Type: application/json
+
+{
+  "title": "Olá tudo bem?"
+}
+
+###
+
+PUT {{baseUrl}}/books/{{bookId}}
+Content-Type: application/json
+
+{
+  "title": "Olá! tudo bem??"
+}
+
+###
+
+DELETE {{baseUrl}}/books/{{bookId}}
+Content-Type: application/json
