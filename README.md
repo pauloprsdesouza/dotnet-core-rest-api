@@ -10,12 +10,10 @@ DotNet Core REST API
 This template is useful for those who need a start point to create a REST API using the .NET core.
 
 ### Here are some used stacks
-<div class="display:flex; flex-direction: row; vertical-align:middle;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/5241700/144725685-da043fc4-eb19-4413-ac5c-4ab0a3fa2ee2.png" width="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/5241700/144725811-bbccd2d4-24b8-4612-999a-39d494dee83c.png" width="150"/>
-</div>
 
+- [.NET Core 6.0 REST API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio)
+- [Entity Framework 6.0](https://docs.microsoft.com/en-us/ef/core/)
+- [Redoc](https://redoc.ly/)
 
 
 ## How to use
