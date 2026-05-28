@@ -1,30 +1,31 @@
-# Dotnet Core REST API
+# Dotnet Core Rest Api
 
 [![License](https://img.shields.io/github/license/pauloprsdesouza/dotnet-core-rest-api)](./LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/pauloprsdesouza/dotnet-core-rest-api)](https://github.com/pauloprsdesouza/dotnet-core-rest-api/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/pauloprsdesouza/dotnet-core-rest-api)](https://github.com/pauloprsdesouza/dotnet-core-rest-api/commits)
 [![Top Language](https://img.shields.io/github/languages/top/pauloprsdesouza/dotnet-core-rest-api)](https://github.com/pauloprsdesouza/dotnet-core-rest-api)
 
-Reference implementation of a production-style .NET REST API with clean layering and maintainable project organization.
+## Overview
+This repository contains a DotNet Core REST API, which has an example of a Store Library
 
 ## Tech Stack
+- C#
 - C# / .NET
-- ASP.NET Core Web API
-- Entity Framework patterns
 
-## Architecture
-- `src/` contains the API solution and application modules.
-- Request handling, domain logic, and infrastructure concerns are separated for clarity.
-- `http/` contains request samples for local API validation.
+## Repository Structure
+- `src/` - main source code
+- `http/` - local API request samples
 
 ## Quick Start
 1. Install a compatible .NET SDK.
-2. Restore dependencies in `src/`.
-3. Build and run the API project.
-4. Open Swagger (if enabled) from local app output.
+2. Restore dependencies from the solution/project.
+3. Build and run locally.
 
 ## Validation
-- Build the solution and run tests (if present in your local setup).
-- Use files under `http/` to validate endpoints.
+- Run local build and tests where available.
+- Validate main workflows/endpoints before opening pull requests.
 
 ## Contributing
 See `CONTRIBUTING.md` for contribution and PR guidelines.
+
+## Status
+Actively maintained by Paulo Roberto de Souza.
